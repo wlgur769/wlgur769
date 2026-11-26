@@ -5,12 +5,10 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=700&size=26&duration=2800&pause=800&color=7B61FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B9%80%EC%A7%80%ED%98%81%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;Indie+Game+Developer+%F0%9F%8E%AE;%EB%B0%A9%ED%95%99%EC%97%90+%EA%B2%8C%EC%9E%84+%EC%B6%9C%EC%8B%9C%ED%95%98%EA%B8%B0+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=900&size=26&duration=2800&pause=800&color=7B61FF&center=true&vCenter=true&width=600&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B9%80%EC%A7%80%ED%98%81%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;Indie+Game+Developer+%F0%9F%8E%AE;%EB%B0%A9%ED%95%99%EC%97%90+%EA%B2%8C%EC%9E%84+%EC%B6%9C%EC%8B%9C%ED%95%98%EA%B8%B0+%F0%9F%9A%80" />
 
 <br/>
 
-<!-- 방문자 수 -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlgur769&count_bg=%237B61FF&title_bg=%23555555&title=Visitors&edge_flat=false"/>
 <a href="https://github.com/wlgur769"><img src="https://img.shields.io/github/followers/wlgur769?label=Followers&style=social"/></a>
 
 </div>
@@ -53,7 +51,7 @@ class Me:
 <img src="https://skillicons.dev/icons?i=unreal,unity,blender&theme=light"/>
 
 ### 💻 Language
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,lua&theme=light"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py&theme=light"/>
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=light"/>
@@ -96,14 +94,11 @@ for i in range(1, 10):
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Contributions
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wlgur769&show_icons=true&theme=default&hide_border=true&title_color=7B61FF&icon_color=7B61FF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlgur769&layout=compact&hide_border=true&title_color=7B61FF"/>
-
-<img src="https://streak-stats.demolab.com?user=wlgur769&hide_border=true&ring=7B61FF&fire=FF6FAE&currStreakLabel=7B61FF"/>
+<img src="https://ghchart.rshah.org/7B61FF/wlgur769" width="100%"/>
 
 </div>
 
