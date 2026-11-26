@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋 About Me
+## 🙋 It's me
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ class Me:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 배우는 중인 언어
 
 <div align="center">
 
@@ -81,7 +81,7 @@ for i in range(1, 10):
 
 ---
 
-## ✅ TO-DO
+## ✅ TO-DO 리스트
 
 | 상태 | 할 일 | 마감 |
 |:----:|-------|:----:|
