@@ -18,7 +18,6 @@
 ## 🙋 It's me
 
 <table>
-<tr>
 <td width="60%">
 
 | 항목 | 내용 |
@@ -38,7 +37,6 @@ class Me:
 ```
 
 </td>
-</tr>
 </table>
 
 ---
