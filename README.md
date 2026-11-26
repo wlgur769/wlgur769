@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%"/>
+</p>
+
 # 👋 지혁의 리포지토리
 
 ## 🙋 About Me
